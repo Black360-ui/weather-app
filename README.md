@@ -316,12 +316,11 @@ npm run dev
 Then open the local development URL provided by Vite in your browser.
 
 ---
-
 ## 🚀 Live Demo
 
-The application will be deployed with Vercel.
+The application is deployed with Vercel.
 
-**Live Demo:** Coming soon
+**Live Demo:** [View the Weather App](https://weather-app-sigma-six-68.vercel.app/)
 
 ---
 
